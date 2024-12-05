@@ -1,0 +1,22 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# vsim -gui -voptargs="+acc" work.bai1_tb 
+# Start time: 14:50:19 on Apr 04,2024
+# Loading work.bai1_tb
+# Loading work.bai1
+add wave -position insertpoint sim:/bai1_tb/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Nguy?nQuangMinh  Hostname: LAPTOP-JOTO60KR  ProcessID: 7964
+#           Attempting to use alternate WLF file "./wlftbbcack".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftbbcack
+run
+# ** Note: $finish    : C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1_tb.v(38)
+#    Time: 30 ps  Iteration: 0  Instance: /bai1_tb
+# 1
+# Break in Module bai1_tb at C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1_tb.v line 38
+run -all
+run
+run -continue
+run
+# End time: 14:53:51 on Apr 04,2024, Elapsed time: 0:03:32
+# Errors: 0, Warnings: 2

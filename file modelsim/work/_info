@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vabc_tb
+!s110 1713180339
+!i10b 1
+!s100 ]6YRiMDajJnaa7aUhRfJ32
+I;d46<1VO`3O]Qi_[OHUef1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim
+w1713179497
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc_tb.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc_tb.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1713180339.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc_tb.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vand3_1
+!s110 1711962881
+!i10b 1
+!s100 Z5S;;h`ETGhMh02hT>1PM2
+ImKIlHBWR>4^?z41<CKz]i0
+R0
+R1
+w1711962880
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/test.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/test.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1711962881.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/test.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vand3_1_tb
+!s110 1711962959
+!i10b 1
+!s100 m1MkEz9mg_Nc0Ql=Gz`hc0
+I:YVnLEclca8>7jP>WkRm[3
+R0
+R1
+w1711962958
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/test_tb.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/test_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1711962959.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/test_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/test_tb.v|
+!i113 1
+R5
+R4
+vbai1
+!s110 1712913775
+!i10b 1
+!s100 CZLF[VeWk78nI;G=DkcG32
+I6@hV49zQ7Gafa^<e1YY2h0
+R0
+R1
+w1712216797
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1712913775.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1.v|
+!i113 1
+R3
+R4
+vbai1_tb
+!s110 1712913587
+!i10b 1
+!s100 1kXEa]d3]E8NH<LXG0YV>3
+I8;JdITeFaiMNC72[ck`483
+R0
+R1
+w1712217297
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1_tb.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1712913587.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/bai1_tb.v|
+!i113 1
+R3
+R4
+vmux2_1
+!s110 1711964516
+!i10b 1
+!s100 `ei]U:@h@LRnGTAFdJg7;1
+IemzH_6B0_C1JC1z0<h8K[3
+R0
+R1
+w1711964505
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/mux2_1.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/mux2_1.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1711964516.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/mux2_1.v|
+!s90 -reportprogress|300|-work|work|C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/mux2_1.v|
+!i113 1
+R3
+R4
+vmux2_1_tb
+!s110 1711964146
+!i10b 1
+!s100 UlI5aHfQCmXV?E_:o=X=X3
+IFKIHL4_1BOLX9UjWlDBT81
+R0
+R1
+w1711964144
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/mux2_1_tb.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/mux2_1_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1711964146.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/mux2_1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/mux2_1_tb.v|
+!i113 1
+R5
+R4
+vxor_gate
+!s110 1713180316
+!i10b 1
+!s100 ZJm9D`Ube=WP_O;<UBnJ<1
+IlLiMAXeF?4N?zVACfNR^^2
+R0
+R1
+w1713178939
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1713180316.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc.v|
+!i113 1
+R3
+R4

@@ -1,0 +1,15 @@
+{C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc.v} {1 {vlog -work work -stats=none {C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}} {C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc_tb.v} {1 {vlog -work work -stats=none {C:/hoc/nam 4 ver 2/he thong so lap trinh/file modelsim/abc_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module abc_tb
+
+Top level modules:
+	abc_tb
+
+} {} {}}

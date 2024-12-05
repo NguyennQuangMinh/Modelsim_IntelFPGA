@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vdiv
+Z0 !s110 1714123352
+!i10b 1
+!s100 3a@2XUomMmnJ9kG`93m_G1
+I5I5Ok1@nUfQ?@T_Mhg`6E3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb
+w1714123119
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/div.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/div.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1714123352.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/div.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmul
+R0
+!i10b 1
+!s100 A9ioKD:nRIHfd3]C>3g>U1
+IKISYR;nH@gB=]J3b0S<;K0
+R1
+R2
+w1714122949
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/mul.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/mul.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/mul.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/mul.v|
+!i113 1
+R5
+R6
+vsum
+R0
+!i10b 1
+!s100 __Vm0b^=T0gR]lNEm980E3
+ImKUA;COK5E?8N]f`g9JmN3
+R1
+R2
+w1714122716
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/sum.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/sum.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/sum.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/sum.v|
+!i113 1
+R5
+R6
+vtop
+!s110 1714123351
+!i10b 1
+!s100 S;[^]GR5c?e@N_<IG^g^V3
+IWWziTUoa0AQ1^nHRQzl>?2
+R1
+R2
+w1714123264
+8C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/top.v
+FC:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1714123351.000000
+!s107 C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/hoc/nam 4 ver 2/he thong so lap trinh/verilog ytb/top.v|
+!i113 1
+R5
+R6
